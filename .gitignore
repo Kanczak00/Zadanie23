@@ -1,2 +1,8 @@
+# Unix executable
+*
+!*.*
+!*/
+*.out
+
 *.o
 *.exe
